@@ -1,7 +1,7 @@
 pstade
 ======
 
-Port of the Shunsuke Sogame's P-Stade Libraries
+Unofficial mirror of the Shunsuke Sogame's P-Stade Libraries
 Based on P-Stade 1.04.3
 
 Original code:
